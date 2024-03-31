@@ -291,7 +291,7 @@ sqlmap -u http://10.10.11.130/login --data 'email=a&passwod=b' --batch --dbs
 ```
 
 - Explicación Opciones:
-  La opción "-u" indica la URL de la página web que se va a atacar, en este caso "**[http://10.10.11.130/login](http://10.10.11.130/login)**".
+  La opción "-u" indica la URL de la página web que se va a atacar, en este caso "http://10.10.11.130/login".
   La opción "--data" especifica los datos que se van a enviar al servidor en la petición POST, en este caso "email=a&password=b".
   La opción "--batch" indica que SQLmap debe ejecutarse en modo batch sin preguntar al usuario para ninguna confirmación.
   La opción "--dbs" indica que SQLmap debe enumerar las bases de datos disponibles en el servidor.
