@@ -1,5 +1,5 @@
 ---
-title: <span style="color:green">HTB:</span> Blue
+title: HTB Blue
 date: 2023-09-13 14:10:00 +0800
 author: pablo
 categories: [HTB, Windows]
