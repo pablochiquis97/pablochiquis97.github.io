@@ -15,7 +15,7 @@ image:
 
 ## Descripción
 
-Buff es una muy máquina para prepararse para el eCPPTv2 en cuanto al tema del Buffer Overflow. En esta máquina se tendrá que identificar un software web que se ejecuta en el sitio, y explotarlo utilizando un exploit público para obtener la ejecución a través de una webshell. Para PrivEsc, encontraré otro servicio que se puede explotar a través de un Buffer Overflow.
+Buff es una muy buena máquina para prepararse para el eCPPTv2 en cuanto al tema del Buffer Overflow. En esta máquina se tendrá que identificar un software web que se ejecuta en el sitio, y explotarlo utilizando un exploit público para obtener la ejecución a través de una webshell. Para PrivEsc, encontraré otro servicio que se puede explotar a través de un Buffer Overflow.
 En este post se tratará de explicar lo mejor posible y detalladamente como explotar un Buffer Overflow. Si es la primera vez que tratas la vulnerabilidad de Buffer Overflow demasiada información puede parecer abrumadora, pero una vez que entiendes la metodología a seguir la explotación se vuelve muy monótona.
 
 ---
