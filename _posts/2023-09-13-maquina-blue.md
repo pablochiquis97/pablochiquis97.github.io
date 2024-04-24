@@ -130,7 +130,7 @@ Obteniendo:
 
 ![Untitled](/assets/img/Blue/Untitled19.png)
 
-## Técnicas de persistencia
+## Técnicas de Post-Explotación
 
 ### Obtener hashes usuarios del sistema
 
