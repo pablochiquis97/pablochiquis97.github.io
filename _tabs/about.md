@@ -1,24 +1,24 @@
 ---
 # the default layout is 'pagoe'
-title: Sobre Mí
+title: About me
 icon: fas fa-info-circle
 order: 4
 ---
 
-¡Hola! Soy Pablo, un estudiante de Ingeniería en Telecomunicaciones con una gran pasión por la tecnología y la ciberseguridad. Desde muy joven, me ha fascinado el mundo de la informática y cómo la tecnología puede influir en nuestras vidas de formas asombrosas.
+Hi! I'm Pablo — a cybersecurity professional with a strong focus on penetration testing. I’ve worked in corporate environments handling everything from Active Directory and internal networks to securing web applications.
 
-Decidí enfocar mis estudios en el campo de la ciberseguridad debido a mi fascinación por los desafíos técnicos y la constante evolución de las amenazas en línea, especialmente en áreas como el pentesting y el red teaming. Me apasiona especialmente la parte ofensiva de la ciberseguridad, donde puedo aplicar mis habilidades para encontrar vulnerabilidades y mejorar la seguridad de los sistemas. Me encanta explorar nuevas tecnologías y encontrar soluciones creativas para proteger sistemas y datos.
+I hold hands-on certifications in ethical hacking and red teaming that back up my experience in exploiting vulnerabilities, phishing techniques, forensic analysis, and offensive security operations.
 
-La creación de este blog surge de mi deseo de compartir mis experiencias y aprendizajes mientras resuelvo máquinas desafiantes en la plataforma Hack The Box (HTB) entre otras. Creo que compartir mis hallazgos no solo puede ser útil para otros apasionados de la ciberseguridad, sino también para aquellos que deseen sumergirse en este emocionante campo.
+My mission? To help organizations improve their security by simulating real-world attacks and identifying vulnerabilities before they can be exploited. I'm actively involved in responsible disclosure programs (VDPs), collaborating with both public and private entities to strengthen their digital defenses.
 
-Además, utilizo el blog como un portafolio de cara a empresas en el futuro, donde puedan apreciar mi experiencia, habilidades y dedicación en el campo de la ciberseguridad.
+I'm passionate about threat hunting and continuous improvement. You’ll often find me learning new techniques, exploring tools, and sharpening my skills on platforms like Hack The Box or through bug bounty programs.
 
-En este espacio, espero proporcionar recursos, tutoriales y análisis detallados que ayuden a otros entusiastas de la ciberseguridad a mejorar sus habilidades y comprender mejor los conceptos clave de la seguridad informática.
+I'm always looking to join teams where I can bring value from an offensive security perspective, help reduce risks, and support incident response capabilities.
 
-Si quieres saber más sobre mi trabajo, puedes encontrarme en:
+If you want to know more about my work, you can find me here:
 
 - <span style="color:blue">**Linkedin:**</span> [https://www.linkedin.com/in/pablo-pacheco-548531262/](https://www.linkedin.com/in/pablo-pacheco-548531262/)
 - <span style="color:green">**HackTheBox:**</span> [https://app.hackthebox.com/profile/1082616](https://app.hackthebox.com/profile/1082616)
 - <span style="color:black">**Github:**</span> [https://github.com/pablochiquis97](https://github.com/pablochiquis97)
 
-¡Bienvenidos a mi blog y espero que disfruten explorando el fascinante mundo de la ciberseguridad junto a mí!
+Welcome to my blog — I hope you enjoy exploring the fascinating world of cybersecurity with me!
